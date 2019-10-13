@@ -1,0 +1,29 @@
+
+.bg-blue{ background-color: rgba(50,50,50,1.00)}
+
+.carousel-caption{ top:200px}
+
+.bg-orange{background-color:#f0644f; color: aliceblue; font-weight: 600; text-align: center;}
+.m-right{border: 2px solid #f0644f; border-right: 2px solid white;}
+
+/*.underline{width: 100px; height: 2px; background-color: orangered;}*/
+
+.card{border: none;}
+.bg-light-gray{background-color: rgba(110,110,11,0.09)}
+
+.media img{ max-width: 120px; height: auto;}
+
+.card-body{text-align: center;}
+
+.blog .media img{ max-width: 200px; height: auto;}
+
+.l{
+    margin: 0px auto;
+}
+
+textarea{
+	width: 100%;
+	height: 100px;
+	background-color: #999
+}
+
